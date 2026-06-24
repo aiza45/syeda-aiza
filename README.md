@@ -31,8 +31,11 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://komarev.com/ghpvc/?username=aiza45&color=blueviolet&style=flat)
+## 📊 Stats
 
+| 📄 Research Papers | 🤖 ML Projects | 💼 Internships |
+|:---:|:---:|:---:|
+| 2 | 4+ | 3 |
 
 ## 📬 Let's connect
 
