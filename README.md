@@ -31,7 +31,7 @@
 ---
 
 ## 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=aiza45&show_icons=true&theme=default&hide_border=true&count_private=true
+![](https://komarev.com/ghpvc/?username=aiza45&color=blueviolet&style=flat)
 
 
 ## 📬 Let's connect
