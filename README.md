@@ -21,12 +21,18 @@
 `Python` `TensorFlow` `Keras` `PyTorch` `OpenCV` `YOLO` `scikit-learn` `React` `SQL`
 
 ---
+# 📄 Research
+
+- [Paper 1 title] — *[Conference/Journal, Year]*
+- [Paper 2 title] — *[Conference/Journal, Year]*
+
+---
 
 ---
 
 ## 📊 GitHub Stats
 
-![Aiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Aiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=syeda-aiza&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ---
 
