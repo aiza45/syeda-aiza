@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats
 
-![Aiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=syeda-aiza&show_icons=true&theme=default&hide_border=true&count_private=true)
+[![Aiza's GitHub stats](https://github-readme-stats.vercel.app/api?username=syeda-aiza&show_icons=true&theme=default&hide_border=true&count_private=true)](https://github-readme-stats.vercel.app/api?username=aiza45&show_icons=true&theme=default&hide_border=true&count_private=true)
 
 ---
 
